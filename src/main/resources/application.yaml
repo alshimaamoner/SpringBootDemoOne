@@ -1,0 +1,5 @@
+server:
+  port: 8030
+
+  coach:
+    name: Mickey Mouse
